@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Created a dice roll at the press of a button.
 
 ![dice demo](https://github.com/raj-prog/dicee/blob/master/img/dicee-demo.gif)
 
